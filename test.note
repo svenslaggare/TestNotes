@@ -4,8 +4,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras bibendum odio non 
 
 ### Test 1 ###
 [x] Item 1
-[] Item 2
-[] Item 4
+[x] Item 2
+[x] Item 4
 [] Item 5
 [] Item 6
 [x] Item 7
