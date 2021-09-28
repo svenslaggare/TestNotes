@@ -4,7 +4,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 Cras bibendum odio non ex cursus, eget iaculis velit ornare. Sed convallis erat vel massa consectetur, vitae sodales nunc malesuada. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
-### Test 1 ###
+### Test 1
 [x] Item 1
 [x] Item 2
 [] Item 4
@@ -12,7 +12,7 @@ Cras bibendum odio non ex cursus, eget iaculis velit ornare. Sed convallis erat 
 [] Item 6
 [] Item 7
 
-##Testing##
+## Testing
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras bibendum odio non ex cursus, eget iaculis velit ornare. Sed convallis erat vel massa consectetur, vitae sodales nunc malesuada. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
 List:
